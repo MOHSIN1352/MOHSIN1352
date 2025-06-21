@@ -31,8 +31,6 @@ I'm open to collaborating on interesting projects! Reach out if you have somethi
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHSIN1352&show_icons=true&theme=radical)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MOHSIN1352&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 📊 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Mohsin1352)](https://leetcode.com/Mohsin1352)
