@@ -35,5 +35,5 @@ I'm open to collaborating on interesting projects! Reach out if you have somethi
 
 
 ## 📊 LeetCode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/your-leetcode-username)](https://leetcode.com/u/Mohsin1352/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/your-leetcode-username)](https://leetcode.com/Mohsin1352/)
 
